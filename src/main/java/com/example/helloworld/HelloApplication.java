@@ -25,6 +25,9 @@ public class HelloApplication extends Application {
         Label label = new Label("Hello World");
         pane.getChildren().add(label);
 
+
+        System.out.println("third master commit");
+
         stage.show();
     }
 
