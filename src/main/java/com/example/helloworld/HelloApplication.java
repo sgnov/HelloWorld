@@ -23,6 +23,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
 
         Label label = new Label("Hello World");
+        System.out.println("Hello World");
         pane.getChildren().add(label);
 
 
