@@ -35,3 +35,10 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
+class A {
+
+    int x = 5;
+
+
+}
