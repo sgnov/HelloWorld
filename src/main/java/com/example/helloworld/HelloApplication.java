@@ -26,7 +26,7 @@ public class HelloApplication extends Application {
         System.out.println("Hello World");
         pane.getChildren().add(label);
 
-
+//igor branch line 30 change
         System.out.println("third master commit");
 //master branch change on line 30
         stage.show();
